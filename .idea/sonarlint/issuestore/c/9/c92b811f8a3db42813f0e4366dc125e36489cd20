@@ -1,0 +1,12 @@
+
+’
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä×Óù8¤öçõ1J$4597c855-eb99-4eb1-b789-ba4b6eb90d4d
+m	java:S106"+Replace this use of System.out by a logger.(ª¼Äƒ8©öçõ1J$6a3f6436-a807-459e-a15e-086d684b01b0
+m	java:S106&"+Replace this use of System.out by a logger.(ô½×ñ8ªöçõ1J$fe48ad18-1c5e-4ea0-a43c-f92d96b9a593
+r	java:S1065"+Replace this use of System.out by a logger.(ëˆóÅúÿÿÿÿ8«öçõ1J$daa8f040-8bfa-4f8c-a48d-08484a6d2449
+
+java:S1128">Remove this unused import 'com.javalab.school.domain.Student'.(Š¯Œ”8¬öçõ1J$7c912d45-c1be-4f9e-b336-62b45328d562
+s
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8¬öçõ1J$981cdf0f-a4fc-4bb8-b58f-8d8f55f47c1e
+s
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¬öçõ1J$61516222-265d-476e-aa78-9524c411d385

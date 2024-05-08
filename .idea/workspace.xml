@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b827fb03-19be-4f26-bfe9-92d2b463e078" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/ojdbc7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/393c47687af4a56154a304a59901045e75e495b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/c/fc519a9502873a7ecaea7e1cbdd340cdf58cd4e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/393c47687af4a56154a304a59901045e75e495b0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/c/fc519a9502873a7ecaea7e1cbdd340cdf58cd4e7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chap15_database02.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/dao/DatabaseConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/domain/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/domain/Enrollment.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/domain/Professor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/domain/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/domain/Takes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/SchoolManagementMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/StudentDBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/StudentDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/StudentInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/StudentSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/StudentUpdate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution/ajdeaow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/DirectExceptionHandling.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/ExceptionPassing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/StudentDBConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/StudentDelete.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/StudentInsert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/StudentSelect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/javalab/school/execution2/StudentUpdate.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2g7l6ZHbIHT9FeS9j3DVf2Dk0lq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Box.executor": "Run",
+    "Application.Calculator.executor": "Run",
+    "Application.CollectionExample.executor": "Run",
+    "Application.DirectExceptionHandling.executor": "Run",
+    "Application.ExceptionHandlingDirect.executor": "Run",
+    "Application.ExceptionHandlingThrow.executor": "Run",
+    "Application.ExceptionPassing.executor": "Run",
+    "Application.HashSetExample.executor": "Run",
+    "Application.ListExample.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Person.executor": "Run",
+    "Application.Printer.executor": "Run",
+    "Application.SchoolManagementMain.executor": "Run",
+    "Application.StudentDBConnect.executor": "Run",
+    "Application.StudentInsert.executor": "Run",
+    "Application.StudentSelect.executor": "Run",
+    "Application.StudentUpdate.executor": "Run",
+    "Application.SynchronizationExample.executor": "Run",
+    "Application.Test1.executor": "Run",
+    "Application.ThreadAnonymousChild.executor": "Run",
+    "Application.ThreadAnonymousImplementation.executor": "Run",
+    "Application.UniversitySystem.executor": "Run",
+    "Application.ajdeaow.executor": "Run",
+    "Application.com.javalab.school.Test3.SynchronizationExample.executor": "Run",
+    "Application.com.javalab.school.Test4.Main.executor": "Run",
+    "Application.com.javalab.school.Test5.Main.executor": "Run",
+    "Application.com.javalab.school.Test6.Main.executor": "Run",
+    "Application.com.javalab.school.Test89.UniversitySystem.executor": "Run",
+    "Application.com.javalab.school.Test9.UniversitySystem.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/util/ojdbc7.jar",
+    "onboarding.tips.debug.path": "C:/javaworks/workspace/javabasic/chap15_database02/src/com/javalab/school/execution2/Main.java",
+    "project.structure.last.edited": "Libraries",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.javacompiler"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\javaworks\workspace\javabasic\chap15_database02\src\com\javalab" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SchoolManagementMain">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalab.school.Test9.Main" />
+      <module name="chap15_database02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalab.school.Test9.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SchoolManagementMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalab.school.execution.SchoolManagementMain" />
+      <module name="chap15_database02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalab.school.execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentInsert" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalab.school.execution2.StudentInsert" />
+      <module name="chap15_database02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalab.school.execution2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StudentSelect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalab.school.execution2.StudentSelect" />
+      <module name="chap15_database02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalab.school.execution2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ajdeaow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.javalab.school.execution.ajdeaow" />
+      <module name="chap15_database02" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.javalab.school.execution.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SchoolManagementMain" />
+        <item itemvalue="Application.ajdeaow" />
+        <item itemvalue="Application.StudentSelect" />
+        <item itemvalue="Application.StudentInsert" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-11.0.22-temurin-11.0.22-f644763e9732-193cb75d" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b827fb03-19be-4f26-bfe9-92d2b463e078" name="Changes" comment="" />
+      <created>1715056321504</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715056321504</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javalab/school/execution2/StudentInsert.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/javalab/school/execution/ajdeaow.java</url>
+          <line>981</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

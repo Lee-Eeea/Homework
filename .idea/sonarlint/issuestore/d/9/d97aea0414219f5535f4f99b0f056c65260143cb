@@ -1,0 +1,14 @@
+
+r	java:S106"+Replace this use of System.out by a logger.(ï‹—éûÿÿÿÿ8âû·‹õ1J$1e5a411e-68c8-4b93-b189-60e67bdd7850
+m	java:S106"+Replace this use of System.out by a logger.(å©ýá8ãû·‹õ1J$4591a881-c7f4-4419-828e-5a7c3738f983
+m	java:S106"+Replace this use of System.out by a logger.(å¤³¯8ãû·‹õ1J$b0325c19-04dd-4a47-9b64-a5eb94625f15
+r	java:S106"+Replace this use of System.out by a logger.(ìÉ©°þÿÿÿÿ8ãû·‹õ1J$4e53f434-ffdd-4f2d-ac50-92d460803526
+m	java:S106"+Replace this use of System.out by a logger.(Ï¨œ¦8äû·‹õ1J$5586efd3-cd4c-449a-a1a5-fce21d703de4
+l	java:S106""+Replace this use of System.out by a logger.(ÃÃ¯8äû·‹õ1J$b0c8ec22-2501-442b-a4b2-5764c6e6bc9c
+m	java:S106$"+Replace this use of System.out by a logger.(ïÔÜµ8äû·‹õ1J$ba9a4e26-31c2-4211-857f-31a68dfc96f2
+x
+java:S14817"0Remove this unused "affectedRow" local variable.(Ïñ‹‰ýÿÿÿÿ8æû·‹õ1J$3df5495b-5cce-404a-a87f-d5d309174552
+r	java:S1068"+Replace this use of System.out by a logger.(Å·Ð³ýÿÿÿÿ8æû·‹õ1J$dbda7552-411a-4819-8f38-fe28c530515b
+ƒ	java:S125="<This block of commented-out lines of code should be removed.(±éý¸øÿÿÿÿ8èû·‹õ1J$1a88d031-baed-4d7d-8e13-a8b356c56dfb
+v
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ÐÔž‹õ1J$c37f4754-64d0-4b12-9b73-6b20a160d26d

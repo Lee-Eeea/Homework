@@ -1,0 +1,14 @@
+
+l
+java:S2095-"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(Ä×Óù8¦À»‹õ1
+G	java:S106"+Replace this use of System.out by a logger.(Ùÿÿé8¬À»‹õ1
+L	java:S106"+Replace this use of System.out by a logger.(“²Äúÿÿÿÿ8¬À»‹õ1
+G	java:S106 "+Replace this use of System.out by a logger.(ªÏ¶¥8®À»‹õ1
+L	java:S106""+Replace this use of System.out by a logger.(«ô²Ÿøÿÿÿÿ8®À»‹õ1
+L	java:S106%"+Replace this use of System.out by a logger.(…Ê¿àúÿÿÿÿ8®À»‹õ1
+L	java:S106'"+Replace this use of System.out by a logger.(‹÷Êúÿÿÿÿ8¯À»‹õ1
+F	java:S106;"+Replace this use of System.out by a logger.(‹Æˆ}8°À»‹õ1
+L	java:S106="+Replace this use of System.out by a logger.(´•ê‹øÿÿÿÿ8°À»‹õ1
+E	java:S108A")Either remove or fill this block of code.(Úîø›8±À»‹õ1
+v
+java:S1128"3Remove this unused import 'java.sql.DriverManager'.(“£°8ò¥‹õ1J$dcd169b4-7bca-4ec8-942f-7c9549d5d9f7

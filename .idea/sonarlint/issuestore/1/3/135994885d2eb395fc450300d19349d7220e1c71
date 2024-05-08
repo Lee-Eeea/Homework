@@ -1,0 +1,8 @@
+
+†
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(Èñ¾„ýÿÿÿÿJ$76ebaf9c-9750-4c2d-a181-8110b09409ef
+k	java:S106"+Replace this use of System.out by a logger.(úÈ½áûÿÿÿÿJ$c0e9d9a9-cd53-4d73-8877-be36408ee1fb
+|
+java:S1854";Remove this useless assignment to local variable "scanner".(Èñ¾„ýÿÿÿÿJ$c485670a-f7d8-49cc-8eca-0e32b187c111
+m
+java:S1481",Remove this unused "scanner" local variable.(Èñ¾„ýÿÿÿÿJ$582d91c7-4579-4cd8-a95a-6225a3911de3
